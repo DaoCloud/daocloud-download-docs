@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-01-11
+date: 2026-04-30
 hide:
   - toc
 ---
@@ -13,6 +13,8 @@ On this page, you can download offline packages for various versions of the micr
 
 | Version  | Architecture | Size | Package | Checksum | Date |
 |----------|--------------|------|---------|----------|------|
+| [v0.55.0](../../skoala/intro/release-notes.md) | <font color="green">ARM 64</font> | 2.96 GB | [:arrow_down: skoala_v0.55.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.55.0_arm64.tar) | [:arrow_down: skoala_v0.55.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.55.0_arm64_checksum.sha512sum) | 2026-04-30 |
+| [v0.55.0](../../skoala/intro/release-notes.md) | AMD 64 | 3.04 GB | [:arrow_down: skoala_v0.55.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.55.0_amd64.tar) | [:arrow_down: skoala_v0.55.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.55.0_amd64_checksum.sha512sum) | 2026-04-30 |
 | [v0.54.0](../../skoala/intro/release-notes.md) | <font color="green">ARM 64</font> | 2.96 GB | [:arrow_down: skoala_v0.54.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.54.0_arm64.tar) | [:arrow_down: skoala_v0.54.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.54.0_arm64_checksum.sha512sum) | 2026-03-26 |
 | [v0.54.0](../../skoala/intro/release-notes.md) | AMD 64 | 3.04 GB | [:arrow_down: skoala_v0.54.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.54.0_amd64.tar) | [:arrow_down: skoala_v0.54.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.54.0_amd64_checksum.sha512sum) | 2026-03-26 |
 | [v0.53.0](../../skoala/intro/release-notes.md) | <font color="green">ARM 64</font> | 2.95 GB | [:arrow_down: skoala_v0.53.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.53.0_arm64.tar) | [:arrow_down: skoala_v0.53.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/skoala_v0.53.0_arm64_checksum.sha512sum) | 2026-02-04 |

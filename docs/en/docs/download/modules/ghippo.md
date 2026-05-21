@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2025-05-08
+date: 2026-05-12
 hide:
   - toc
 ---
@@ -13,6 +13,8 @@ On this page, you can download the offline packages of various versions of the g
 
 | Version | Architecture | Size | Package | Checksum | Date |
 | ------- | ------------ | ---- | ------- | -------- | ---- |
+| [v0.46.0](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 508.80MB | [:arrow_down: ghippo_v0.46.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.46.0_arm64.tar) | [:arrow_down: ghippo_v0.46.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.46.0_arm64_checksum.sha512sum) | 2026-05-12 |
+| [v0.46.0](../../ghippo/intro/release-notes.md) | AMD 64 | 515.53MB | [:arrow_down: ghippo_v0.46.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.46.0_amd64.tar) | [:arrow_down: ghippo_v0.46.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.46.0_amd64_checksum.sha512sum) | 2026-05-12 |
 | [v0.45.1](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 468.87MB | [:arrow_down: ghippo_v0.45.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.45.1_arm64.tar) | [:arrow_down: ghippo_v0.45.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.45.1_arm64_checksum.sha512sum) | 2026-03-02 |
 | [v0.45.1](../../ghippo/intro/release-notes.md) | AMD 64 | 476.00MB | [:arrow_down: ghippo_v0.45.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.45.1_amd64.tar) | [:arrow_down: ghippo_v0.45.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.45.1_amd64_checksum.sha512sum) | 2026-03-02 |
 | [v0.45.0](../../ghippo/intro/release-notes.md) | <font color="green">ARM 64</font> | 469.01MB | [:arrow_down: ghippo_v0.45.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.45.0_arm64.tar) | [:arrow_down: ghippo_v0.45.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/ghippo_v0.45.0_arm64_checksum.sha512sum) | 2026-02-28 |

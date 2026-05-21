@@ -1,4 +1,6 @@
 ---
+MTPE: windsonsea
+date: 2026-05-06
 hide:
   - toc
 ---
@@ -11,6 +13,8 @@ On this page, you can download the offline packages of each version of the LLM S
 
 | Version | Architecture | Size | Package | Checksum | Date |
 | ------- | ------------ | ---- | ------- | -------- | ---- |
+| [v0.14.0](../../hydra/intro/release-notes.md) | <font color="green">ARM 64</font> | 334.98 MB | [:arrow_down: hydra_v0.14.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.14.0_arm64.tar) | [:arrow_down: hydra_v0.14.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.14.0_arm64_checksum.sha512sum) | 2026-05-06 |
+| [v0.14.0](../../hydra/intro/release-notes.md) | AMD 64 | 352.51 MB | [:arrow_down: hydra_v0.14.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.14.0_amd64.tar) | [:arrow_down: hydra_v0.14.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.14.0_amd64_checksum.sha512sum) | 2026-05-06 |
 | [v0.13.1](../../hydra/intro/release-notes.md) | <font color="green">ARM 64</font> | 328.78 MB | [:arrow_down: hydra_v0.13.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.13.1_arm64.tar) | [:arrow_down: hydra_v0.13.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.13.1_arm64_checksum.sha512sum) | 2026-04-01 |
 | [v0.13.1](../../hydra/intro/release-notes.md) | AMD 64 | 347.17 MB | [:arrow_down: hydra_v0.13.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.13.1_amd64.tar) | [:arrow_down: hydra_v0.13.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.13.1_amd64_checksum.sha512sum) | 2026-04-01 |
 | [v0.12.3](../../hydra/intro/release-notes.md) | <font color="green">ARM 64</font> | 679.67 MB | [:arrow_down: hydra_v0.12.3_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.12.3_arm64.tar) | [:arrow_down: hydra_v0.12.3_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/hydra_v0.12.3_arm64_checksum.sha512sum) | 2026-01-14 |

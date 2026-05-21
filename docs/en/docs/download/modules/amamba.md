@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2026-01-26
+date: 2026-05-12
 hide:
   - toc
 ---
@@ -13,6 +13,10 @@ This page provides downloads for the offline package of different versions of th
 
 | Version | Architecture | Size | Package   | Checksum | Date |
 | ------ | ------------ | ----- | --------- | -------- | ---- |
+| [v0.40.4](../../amamba/intro/release-notes.md) | <font color="green">ARM 64</font> | 457.70MB | [:arrow_down: amamba_v0.40.4_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.4_arm64.tar) | [:arrow_down: amamba_v0.40.4_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.4_arm64_checksum.sha512sum) | 2026-05-12 |
+| [v0.40.4](../../amamba/intro/release-notes.md) | AMD 64 | 472.79MB | [:arrow_down: amamba_v0.40.4_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.4_amd64.tar) | [:arrow_down: amamba_v0.40.4_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.4_amd64_checksum.sha512sum) | 2026-05-12 |
+| [v0.40.3](../../amamba/intro/release-notes.md) | <font color="green">ARM 64</font> | 457.70MB | [:arrow_down: amamba_v0.40.3_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.3_arm64.tar) | [:arrow_down: amamba_v0.40.3_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.3_arm64_checksum.sha512sum) | 2026-05-08 |
+| [v0.40.3](../../amamba/intro/release-notes.md) | AMD 64 | 472.79MB | [:arrow_down: amamba_v0.40.3_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.3_amd64.tar) | [:arrow_down: amamba_v0.40.3_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.3_amd64_checksum.sha512sum) | 2026-05-08 |
 | [v0.40.1](../../amamba/intro/release-notes.md) | <font color="green">ARM 64</font> | 457.67MB | [:arrow_down: amamba_v0.40.1_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.1_arm64.tar) | [:arrow_down: amamba_v0.40.1_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.1_arm64_checksum.sha512sum) | 2026-04-01 |
 | [v0.40.1](../../amamba/intro/release-notes.md) | AMD 64 | 472.81MB | [:arrow_down: amamba_v0.40.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.1_amd64.tar) | [:arrow_down: amamba_v0.40.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.1_amd64_checksum.sha512sum) | 2026-04-01 |
 | [v0.40.0](../../amamba/intro/release-notes.md) | <font color="green">ARM 64</font> | 457.67MB | [:arrow_down: amamba_v0.40.0_arm64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.0_arm64.tar) | [:arrow_down: amamba_v0.40.0_arm64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.40.0_arm64_checksum.sha512sum) | 2026-03-25 |

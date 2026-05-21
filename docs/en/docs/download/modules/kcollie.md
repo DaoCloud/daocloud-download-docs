@@ -1,6 +1,6 @@
 ---
 MTPE: windsonsea
-date: 2024-01-11
+date: 2026-04-30
 hide:
   - toc
 ---
@@ -13,6 +13,8 @@ This page provides offline packages for different versions of the Cluster Inspec
 
 | Version | Architecture | Size | Package | Checksum | Date |
 |---------|--------------|------|---------|----------|------|
+| [v0.16.0](../../kcollie/intro/release-notes.md) | AMD 64 | 281.48 MB | [:arrow_down: kcollie_v0.16.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.16.0_amd64.tar) | [:arrow_down: kcollie_v0.16.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.16.0_amd64_checksum.sha512sum) | 2026-04-30 |
+| [v0.15.0](../../kcollie/intro/release-notes.md) | AMD 64 | 272.74 MB | [:arrow_down: kcollie_v0.15.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.15.0_amd64.tar) | [:arrow_down: kcollie_v0.15.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.15.0_amd64_checksum.sha512sum) | 2026-04-01 |
 | [v0.14.0](../../kcollie/intro/release-notes.md) | AMD 64 | 272.72 MB | [:arrow_down: kcollie_v0.14.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.14.0_amd64.tar) | [:arrow_down: kcollie_v0.14.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.14.0_amd64_checksum.sha512sum) | 2025-12-02 |
 | [v0.10.0](../../kpanda/intro/release-notes.md) | AMD 64 | 252.95 MB | [:arrow_down: kcollie_v0.10.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.10.0_amd64.tar) | [:arrow_down: kcollie_v0.10.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kcollie_v0.10.0_amd64_checksum.sha512sum) | 2024-09-29 |
 
