@@ -78,7 +78,7 @@
 | 频道 | 模块 | 文件大小 | 下载 | 更新日期 |
 | --- | ---- | ------ | ---- | ------ |
 | 工作台 | 应用工作台 | 489.48 MB | [:arrow_right: 下载页](./modules/amamba.md) | 2026-10-08 |
-| 容器 | 容器管理 | 792.10 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-09-27 |
+| 容器 | 容器管理 | 792.10 MB | [:arrow_right: 下载页](./modules/kpanda.md) | 2026-11-03 |
 | | 集群巡检 | 174.30 MB | [:arrow_right: 下载页](./modules/kcollie.md) | 2024-09-29 |
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
 | | 安全管理 | 167.29 MB | [:arrow_right: 下载页](./modules/dowl.md) | 2023-11-26 |
