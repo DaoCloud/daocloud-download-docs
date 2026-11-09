@@ -83,7 +83,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | Channel | Modules | Size | Download | Date |
 | ------- | ------- | ---- | -------- | ---- |
 | Workbench | Workbench | 489.48 MB | [:arrow_right: Go to Download](./modules/amamba.md) | 2026-10-08 |
-| Container | Container Management | 792.10 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-09-27 |
+| Container | Container Management | 792.10 MB | [:arrow_right: Go to Download](./modules/kpanda.md) | 2026-11-03 |
 | | Cluster Inspection | 174.30 MB | [:arrow_right: Go to Download](./modules/kcollie.md) | 2024-09-29 |
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
