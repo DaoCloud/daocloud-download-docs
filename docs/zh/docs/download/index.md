@@ -6,8 +6,8 @@
 
 | 最新离线包 | 版本 | 文件大小 | 下载 | 更新日期 |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.45.0_amd64.tar.gz | v0.45.0 | 143.17 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.45.0_amd64.tar.gz) | 2026-10-14 |
-| prerequisite_v0.45.0_arm64.tar.gz | v0.45.0 | 129.28 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.45.0_arm64.tar.gz) | 2026-10-14 |
+| prerequisite_v0.46.0_amd64.tar.gz | v0.46.0 | 143.45 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.46.0_amd64.tar.gz) | 2026-11-12 |
+| prerequisite_v0.46.0_arm64.tar.gz | v0.46.0 | 129.49 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.46.0_arm64.tar.gz) | 2026-11-12 |
 
 ## 下载 d.run Token 工厂效能平台
 
@@ -15,8 +15,8 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
-| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.45.0.md) | 2026-10-14 |
-| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
+| offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
 
 [查看更多历史版本](./tf/index.md){ .md-button } 
 
@@ -26,8 +26,8 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
-| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.45.0.md) | 2026-10-14 |
-| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
+| offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
 
 [查看更多历史版本](./drun/index.md){ .md-button } 
 
@@ -39,8 +39,8 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | -------- | ---- | --- | ------- |
-| offline-community-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.45.0.md) | 2026-10-14 |
-| offline-community-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.45.0.md) | 2026-10-14 |
+| offline-community-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
+| offline-community-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
 [查看更多历史版本](./free/dce5-installer-history.md){ .md-button } 
 
@@ -50,8 +50,8 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
-| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.45.0.md) | 2026-10-14 |
-| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
+| offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
 [查看更多历史版本](./business/dce5-installer-history.md){ .md-button } 
 
