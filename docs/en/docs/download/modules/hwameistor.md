@@ -33,9 +33,6 @@ hwameistor-operator_v0.13.1_amd64.tar: ok
 
 ## Installation
 
-Refer to the [hwameistor-operator installation process](../../storage/hwameistor/install/deploy-operator.md)
-for installation instructions.
-
-If this is your first installation, please [apply for a free trial](../../dce/license0.md) or contact us
-for authorization: email info@daocloud.io or call 400 002 6898. If you have any questions regarding the
-license key, please contact the DaoCloud delivery team.
+Refer to [hwameistor-operator installation procedure](../../storage/hwameistor/install/deploy-operator.md) for installation.
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

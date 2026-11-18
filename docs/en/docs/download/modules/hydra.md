@@ -104,5 +104,6 @@ hydra_v0.9.0_amd64.tar: ok
 
 ## Installation
 
-If you are installing for the first time, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any license key related questions, please contact DaoCloud delivery team.
+Refer to [offline upgrade of the LLM Studio](../../drun/hydra/intro/offline-upgrade.md).
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

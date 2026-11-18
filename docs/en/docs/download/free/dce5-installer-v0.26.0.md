@@ -81,7 +81,7 @@ DCE Community includes the following modules by default:
 | -------- | ----------- | ---------- |
 | Global Management | Responsible for user access control, permissions, workspace and hierarchy, audit logs, and custom appearance. | [v0.34.0](../../ghippo/intro/release-notes.md#v0340) |
 | Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [v0.36.0](../../kpanda/intro/release-notes.md#v0360) |
-| Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [0.34.1](../../insight/intro/release-notes.md#v0341) |
+| Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.34.1](../../insight/intro/release-notes.md#v0341) |
 
 ## More
 

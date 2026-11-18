@@ -48,8 +48,6 @@ topohub-dashboard_${version}_${arch}.tar: ok
 
 ## Installation
 
-Refer to [Offline Upgrade Device Management](../../topohub/intro/offline-upgrade.md) for installation instructions.
-
-If this is your first installation, please [apply for a free trial](../../dce/license0.md)
-or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-For any license key-related inquiries, please contact the DaoCloud delivery team.
+Refer to [offline upgrade of the device management module](../../topohub/intro/install.md) for installation.
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

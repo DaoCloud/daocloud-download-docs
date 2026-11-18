@@ -66,5 +66,6 @@ mcamel-redis_0.11.1_amd64.tar: OK
 
 ## 安装
 
-如果是初次安装，请[申请免费体验](../../../dce/license0.md)或联系我们授权：电邮 info@daocloud.io 或致电 400 002 6898。
+参阅[离线升级 Redis](../../middleware/redis/intro/offline-install.md)。
 如果有任何许可密钥相关的问题，请联系 DaoCloud 交付团队。
+电邮 info@daocloud.io 或致电 400 002 6898。

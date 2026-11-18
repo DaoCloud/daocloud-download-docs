@@ -46,5 +46,6 @@ kairship_v0.11.0_amd64.tar: ok
 
 ## Installation
 
-If this is your first installation, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-For any license key-related inquiries, please contact the DaoCloud delivery team.
+Refer to [multi-cloud orchestration offline upgrade steps](../../kairship/intro/offline-upgrade.md).
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

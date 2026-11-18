@@ -113,7 +113,7 @@ This page provides downloads for the offline package of different versions of th
     | [v0.23.0](../../amamba/intro/release-notes.md) | AMD 64 | 353.13 MB | [:arrow_down: amamba_v0.23.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.23.0_amd64.tar) | [:arrow_down: amamba_v0.23.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.23.0_amd64_checksum.sha512sum) | 2024-01-03 |
     | [v0.22.1](../../amamba/intro/release-notes.md) | AMD 64 | 340.77 MB | [:arrow_down: amamba_v0.22.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.1_amd64.tar) | [:arrow_down: amamba_v0.22.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.1_amd64_checksum.sha512sum) | 2023-12-22 |
     | [v0.22.0](../../amamba/intro/release-notes.md) | AMD 64 | 340.76 MB | [:arrow_down: amamba_v0.22.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.0_amd64.tar) | [:arrow_down: amamba_v0.22.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.0_amd64_checksum.sha512sum) | 2023-12-19 |
-    | [0.19.5](../../amamba/intro/release-notes.md) | AMD 64 | 773.93 MB | [:arrow_down: amamba_0.19.5_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64.tar) | [:arrow_down: amamba_0.19.5_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64_checksum.sha512sum) | 2023-08-30 |
+    | [v0.19.5](../../amamba/intro/release-notes.md) | AMD 64 | 773.93 MB | [:arrow_down: amamba_0.19.5_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64.tar) | [:arrow_down: amamba_0.19.5_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64_checksum.sha512sum) | 2023-08-30 |
 
 ## Verification
 
@@ -132,8 +132,6 @@ amamba_v0.19.0_amd64.tar: ok
 
 ## Installation
 
-Refer to the [Offline Upgrade](../../amamba/offline-upgrade.md) page for installation instructions.
-
-If this is your first installation, please [apply for a free trial](../../dce/license0.md)
-or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any questions regarding license keys, please contact the DaoCloud delivery team.
+Refer to [offline upgrade](../../amamba/offline-upgrade.md) for installation.
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

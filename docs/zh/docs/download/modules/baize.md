@@ -56,7 +56,6 @@ baize_v0.25.1_amd64.tar: ok
 
 ## 安装
 
-参阅 [AI Lab 离线升级步骤](../../baize/quickstart/baize.md#_11)。
-
-如果是初次安装，请[申请免费体验](../../dce/license0.md)或联系我们授权：电邮 info@daocloud.io 或致电 400 002 6898。
+参阅 [AI Lab 离线升级步骤](../../baize/intro/install.md)。
 如果有任何许可密钥相关的问题，请联系 DaoCloud 交付团队。
+电邮 info@daocloud.io 或致电 400 002 6898。

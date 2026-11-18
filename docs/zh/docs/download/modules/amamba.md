@@ -111,7 +111,7 @@ hide:
     | [v0.23.0](../../amamba/intro/release-notes.md) | AMD 64 | 353.13 MB | [:arrow_down: amamba_v0.23.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.23.0_amd64.tar) | [:arrow_down: amamba_v0.23.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.23.0_amd64_checksum.sha512sum) | 2024-01-03 |
     | [v0.22.1](../../amamba/intro/release-notes.md) | AMD 64 | 340.77 MB | [:arrow_down: amamba_v0.22.1_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.1_amd64.tar) | [:arrow_down: amamba_v0.22.1_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.1_amd64_checksum.sha512sum) | 2023-12-22 |
     | [v0.22.0](../../amamba/intro/release-notes.md) | AMD 64 | 340.76 MB | [:arrow_down: amamba_v0.22.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.0_amd64.tar) | [:arrow_down: amamba_v0.22.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_v0.22.0_amd64_checksum.sha512sum) | 2023-12-19 |
-    | [0.19.5](../../amamba/intro/release-notes.md) | AMD 64 | 773.93 MB | [:arrow_down: amamba_0.19.5_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64.tar) | [:arrow_down: amamba_0.19.5_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64_checksum.sha512sum) | 2023-08-30 |
+    | [v0.19.5](../../amamba/intro/release-notes.md) | AMD 64 | 773.93 MB | [:arrow_down: amamba_0.19.5_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64.tar) | [:arrow_down: amamba_0.19.5_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/amamba_0.19.5_amd64_checksum.sha512sum) | 2023-08-30 |
 
 ## 校验
 
@@ -130,6 +130,5 @@ amamba_v0.19.0_amd64.tar: ok
 ## 安装
 
 参阅[离线升级](../../amamba/offline-upgrade.md)页面进行安装。
-
-如果是初次安装，请[申请免费体验](../../dce/license0.md)或联系我们授权：电邮 info@daocloud.io 或致电 400 002 6898。
 如果有任何许可密钥相关的问题，请联系 DaoCloud 交付团队。
+电邮 info@daocloud.io 或致电 400 002 6898。

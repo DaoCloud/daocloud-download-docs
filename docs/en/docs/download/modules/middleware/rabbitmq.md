@@ -66,5 +66,6 @@ rabbitmq_0.13.1_amd64.tar: OK
 
 ## Installation
 
-If this is your first time installing, please [apply for a free trial](../../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any questions related to license keys, please contact the DaoCloud delivery team.
+Refer to [offline upgrade of RabbitMQ](../../middleware/rabbitmq/intro/offline-install.md).
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

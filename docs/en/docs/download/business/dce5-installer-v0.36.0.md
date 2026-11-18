@@ -92,7 +92,7 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Middleware MinIO | A lightweight, open-source object storage solution that is very popular. | [v0.23.0](../../middleware/minio/release-notes.md#v0230) |
 | Middleware MySQL | The most widely used open-source relational database. | [v0.28.0](../../middleware/mysql/release-notes.md#v0280) |
 | Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.29.0](../../middleware/rabbitmq/release-notes.md#v0290) |
-| Middleware Redis | An in-memory database caching service. | [v0.29.0](../../middleware/redis/release-notes.md#v0290) |
+| Middleware Redis | An in-memory database caching service. | [v0.29.0](../../middleware/redis/release-notes.md#v0280) |
 | Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.6](../../network/intro/release-notes.md#v0166) |
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.5](../../storage/hwameistor/release-notes.md#v0165) |

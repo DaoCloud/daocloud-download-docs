@@ -37,5 +37,6 @@ inferx_v0.2.0_amd64.tar: ok
 
 ## Installation
 
-For first-time installation, please [apply for a free trial](../../dce/license0.md) or contact us for licensing: email [info@daocloud.io](mailto:info@daocloud.io) or call 400 002 6898.
-If you have any license key-related issues, please contact the DaoCloud delivery team.
+Refer to the offline installation steps for the inference accelerator.
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

@@ -85,7 +85,7 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Workbench | A container-based DevOps application platform that supports Jenkins, Tekton, GitOps, and other pipeline jobs. | [v0.39.2](../../amamba/intro/release-notes.md#v0392) |
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
 | Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.53.0](../../skoala/intro/release-notes.md#v0530) |
-| Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud-native applications. | [v0.38.0](../../mspider/intro/release-notes.md#v0370) |
+| Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud-native applications. | [v0.38.0](../../mspider/intro/release-notes.md#v0380) |
 | Device Management | A Kubernetes cloud-native infrastructure management component built for intelligent computing centers, enabling unified management of hardware resources such as hosts and switches. | [v0.6.0](../../topohub/intro/release-notes.md#v060) |
 | Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.26.1](../../middleware/elasticsearch/release-notes.md#v0261) |
 | Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.28.0](../../middleware/kafka/release-notes.md#v0280) |
