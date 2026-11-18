@@ -62,5 +62,6 @@ postgresql_0.5.1_amd64.tar: OK
 
 ## Installation
 
-If this is your first installation, please [apply for a free trial](../../../dce/license0.md) or contact us for authorization at info@daocloud.io or call 400 002 6898.
-For any license key-related questions, please contact the DaoCloud delivery team.
+Refer to [offline upgrade of PostgreSQL](../../middleware/postgresql/intro/offline-install.md).
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

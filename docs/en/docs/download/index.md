@@ -11,19 +11,23 @@ Currently, only offline packages are provided in the download center. For online
 
 | Latest Package | Version | Size | Download | Date |
 | ------ | ---- | ---- | ---- |-------- |
-| prerequisite_v0.45.0_amd64.tar.gz | v0.45.0 | 143.17 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.45.0_amd64.tar.gz) | 2026-10-14 |
-| prerequisite_v0.45.0_arm64.tar.gz | v0.45.0 | 129.28 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.45.0_arm64.tar.gz) | 2026-10-14 |
+| prerequisite_v0.46.0_amd64.tar.gz | v0.46.0 | 143.45 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.46.0_amd64.tar.gz) | 2026-11-12 |
+| prerequisite_v0.46.0_arm64.tar.gz | v0.46.0 | 129.49 MB | [:arrow_down: Download](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.46.0_arm64.tar.gz) | 2026-11-12 |
+
+!!! tip
+
+    To download legacy dependencies, change the version number in the URL file name, for example `prerequisite_v0.38.0_arm64.tar.gz`.
 
 ## Download d.run Token Factory
 
-This product is an integrated platform built for AI intelligent computing scenarios.
+This product is suitable for producing efficient and profitable token factory.
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
-| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.45.0.md) | 2026-10-14 |
-| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
+| offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
 
-[More Historical Versions](./tf/index.md){ .md-button }
+[Historical Versions](./tf/index.md){ .md-button }
 
 ## Download d.run AI OS
 
@@ -31,10 +35,10 @@ This product is suitable for delivering stable and efficient AI services to all 
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
-| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.45.0.md) | 2026-10-14 |
-| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
+| offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
 
-[More Historical Versions](./drun/index.md){ .md-button }
+[Historical Versions](./drun/index.md){ .md-button }
 
 ## Download DaoCloud Enterprise
 
@@ -44,10 +48,10 @@ This version is dedicated to the community and is available for free trial.
 
 | Latest Package | Version | Download | Date |
 | -------- | ---- | --- | ------- |
-| offline-community-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.45.0.md) | 2026-10-14 |
-| offline-community-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.45.0.md) | 2026-10-14 |
+| offline-community-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
+| offline-community-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
-[Legacy Packages for DCE Community](./free/dce5-installer-history.md){ .md-button }
+[Historical Versions](./free/dce5-installer-history.md){ .md-button }
 
 ### Download DCE Enterprise
 
@@ -55,10 +59,10 @@ This version is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
-| offline-v0.45.0-arm64.tar | v0.45.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.45.0.md) | 2026-10-14 |
-| offline-v0.45.0-amd64.tar | v0.45.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.45.0.md) | 2026-10-14 |
+| offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
+| offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
-[Legacy Packages for DCE Enterprise](./business/dce5-installer-history.md){ .md-button }
+[Historical Versions](./business/dce5-installer-history.md){ .md-button }
 
 ## Download Addons
 
@@ -74,7 +78,7 @@ DaoCloud provides comprehensive Addons for different use cases, which can be dow
 | standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
 | standard-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: Go to Download](./addon/v0.45.0.md) | 2026-10-29 |
 
-[Legacy Packages for Addons](./addon/history.md){ .md-button }
+[Historical Versions](./addon/history.md){ .md-button }
 
 ## Download Modules
 
@@ -95,7 +99,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | Microservice | Insight | 1.83 GB | [:arrow_right: Go to Download](./modules/insight.md) | 2026-10-09 |
 | | Ipavo | 51 MB | [:arrow_right: Go to Download](./modules/ipavo.md) | 2024-10-28 |
 | | Microservice Engine | 3.29 GB | [:arrow_right: Go to Download](./modules/skoala.md) | 2026-10-27 |
-| | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-07-28 |
+| | Service Mesh | 1.25 GB | [:arrow_right: Go to Download](./modules/mspider.md) | 2026-11-17 |
 | Middleware| Elasticsearch | 1.95 GB | [:arrow_right: Go to Download](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: Go to Download](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: Go to Download](./modules/middleware/minio.md) | 2025-12-16 |
@@ -116,7 +120,6 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 !!! note
 
     - After upgrading the module, you may need to re-import the license and activate it.
-    - DCE is still in the early stage of release, and offline packages for various modules will be added gradually.
     - If you have any questions, [provide feedback](https://github.com/DaoCloud/DaoCloud-docs/issues).
     - Welcome to scan the QR code to communicate with developers:
 
@@ -124,7 +127,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 
 ## Download Documentation
 
-This section groups the offline documentation by the five navigation blocks on the left of the d.run AI OS and d.run Token Factory sites, and provides the PDF for each module. Click a module name to view or download the PDF.
+This section provides the offline documentation PDFs of each module for viewing and download. Click a module name to view or download it.
 
 | Section | View or Download | File Size | Updated Date | Notes |
 | --- | ---- | ---- | ------ | ---- |
@@ -160,10 +163,9 @@ This section groups the offline documentation by the five navigation blocks on t
 
 !!! tip
 
-    - For batch generation of Docx and PDF files, refer to [mdctl batch processing steps](https://docs.daocloud.io/native/git/md-docx).
-    - While viewing PDFs, you can use **bookmarks** and **table of contents** to quickly browse and navigate to specific sections.
+    While viewing PDFs, you can use **bookmarks** and **table of contents** to quickly browse and navigate to specific sections.
 
     ![Bookmarks and Table of Contents](./images/bookmark-toc.png)
 
-[Install DCE](../install/index.md){ .md-button .md-button--primary }
+[Installation Guide](../install/index.md){ .md-button .md-button--primary }
 [Free Trial](../dce/license0.md){ .md-button .md-button--primary }

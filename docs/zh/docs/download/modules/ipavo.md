@@ -34,5 +34,7 @@ echo "$(cat ipavo_v0.12.4_amd64_checksum.sha512sum)" | sha512sum -c
 ipavo_v0.12.4_amd64.tar: ok
 ```
 
-如果是初次安装，请[申请免费体验](../../dce/license0.md)或联系我们授权：电邮 info@daocloud.io 或致电 400 002 6898。
-如果有任何许可密钥相关的问题，请联系 DaoCloud 交付团队。
+## 安装
+
+参阅离线安装步骤。如果有任何许可密钥相关的问题，请联系 DaoCloud 交付团队。
+电邮 info@daocloud.io 或致电 400 002 6898。

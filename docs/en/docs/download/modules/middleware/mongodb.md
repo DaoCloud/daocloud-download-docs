@@ -62,5 +62,6 @@ mongodb_0.3.1_amd64.tar: OK
 
 ## Installation
 
-If this is your first time installing, please [apply for a free trial](../../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any questions regarding license keys, please contact the DaoCloud delivery team.
+Refer to [offline upgrade of MongoDB](../../middleware/mongodb/intro/offline-install.md).
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

@@ -9,16 +9,20 @@
 | prerequisite_v0.46.0_amd64.tar.gz | v0.46.0 | 143.45 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.46.0_amd64.tar.gz) | 2026-11-12 |
 | prerequisite_v0.46.0_arm64.tar.gz | v0.46.0 | 129.49 MB | [:arrow_down: 下载](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/dce5/prerequisite_v0.46.0_arm64.tar.gz) | 2026-11-12 |
 
+!!! tip
+
+    若需下载旧版前置依赖包，可修改 URL 文件名中的版本号，例如 `prerequisite_v0.38.0_arm64.tar.gz`。
+
 ## 下载 d.run Token 工厂效能平台
 
-此产品适合 AI 智算场景打造的一体化平台。
+此产品适合打造高效、可盈利的 Token 工厂。
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 | ----- | ----- | ---- | --------- |
 | offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
 | offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
 
-[查看更多历史版本](./tf/index.md){ .md-button } 
+[查看历史版本](./tf/index.md){ .md-button } 
 
 ## 下载 d.run AI 操作系统
 
@@ -29,7 +33,7 @@
 | offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
 | offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
 
-[查看更多历史版本](./drun/index.md){ .md-button } 
+[查看历史版本](./drun/index.md){ .md-button } 
 
 ## 下载 DaoCloud Enterprise
 
@@ -42,7 +46,7 @@
 | offline-community-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
 | offline-community-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
-[查看更多历史版本](./free/dce5-installer-history.md){ .md-button } 
+[查看历史版本](./free/dce5-installer-history.md){ .md-button } 
 
 ### 下载 DCE 商业版
 
@@ -53,7 +57,7 @@
 | offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
 | offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: 下载页](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
-[查看更多历史版本](./business/dce5-installer-history.md){ .md-button } 
+[查看历史版本](./business/dce5-installer-history.md){ .md-button } 
 
 ## 下载 Addon 离线包
 
@@ -69,7 +73,7 @@
 | standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
 | standard-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
 
-[查看更多历史版本](./addon/history.md){ .md-button }
+[查看历史版本](./addon/history.md){ .md-button }
 
 ## 下载子模块
 
@@ -110,8 +114,7 @@
 
 !!! note
 
-    - 升级子模块之后，可能需要重新灌入 License 并激活。
-    - DaoCloud Enterprise 5.0 还处于发布初期，将陆续增加各个子模块的离线包。
+    - 升级子模块之后，可能需要[重新灌入 License 并激活](../dce/license0.md)。
     - 若有任何疑问，请[提出反馈](https://github.com/DaoCloud/DaoCloud-docs/issues)。
     - 欢迎扫描二维码，与开发者畅快交流：
 
@@ -119,7 +122,7 @@
 
 ## 下载产品文档
 
-本节按 d.run AI 操作系统和 d.run Token 工厂效能平台左侧导航的 5 个区块，提供各个模块的离线文档 PDF 供查阅和下载，点击模块名称即可查阅或下载。
+本节提供各个模块的离线文档 PDF 供查阅和下载，点击模块名称即可查阅或下载。
 
 | 区块 | 查阅或下载 | 文件大小 | 更新日期 | 备注 |
 | --- | ---- | ---- | ------ | ---- |
@@ -150,16 +153,15 @@
 | | [费用中心](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/leopard.pdf) | 1.76 MB | 2025-11-24 | 统计 Token 消耗量和账单 |
 | 运维管理 | [可观测性](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/insight.pdf) | 15.69 MB | 2026-10-28 | 日志/链路/指标动态观测 |
 | | [全局管理](https://harbor-test2.cn-sh2.ufileos.com/docs/download/docs/ghippo.pdf) | 13.98 MB | 2026-10-28 | 角色权限和全局设置 |
-| 三个完整产品 | [DCE 5.0 产品说明书](https://harbor-test2.cn-sh2.ufileos.com/docs/download/dce.docx) | 296.1 MB | 2026-10-28 | DCE 14 个模块的 Docx 合本，1826 页 |
+| 三个完整产品 | [DCE 产品说明书](https://harbor-test2.cn-sh2.ufileos.com/docs/download/dce.docx) | 296.1 MB | 2026-10-28 | DCE 14 个模块的 Docx 合本，1826 页 |
 | | [d.run AI 操作系统产品说明书](https://harbor-test2.cn-sh2.ufileos.com/docs/download/drun.docx) | 227.8 MB | 2026-10-28 | d.run AI 所有模块的 Docx 合本，2927 页 |
 | | [d.run Token 工厂产品说明书](https://harbor-test2.cn-sh2.ufileos.com/docs/download/tf.docx) | 356.8 MB | 2026-10-28 | Token 工厂所有模块的 Docx 合本，1994 页 |
 
 !!! tip
 
-    - 有关批量生成 Docx 和 PDF，请参阅 [mdctl 批量生成操作步骤](https://docs.daocloud.io/native/git/md-docx)
-    - 查阅 PDF 时，可借助 **书签** 和 **目录** 快速浏览并导航到对应章节
+    查阅 PDF 时，可借助 **书签** 和 **目录** 快速浏览并导航到对应章节。
 
     ![书签和目录](./images/bookmark-toc.png)
 
-[安装 DCE](../install/index.md){ .md-button .md-button--primary }
+[安装教程](../install/index.md){ .md-button .md-button--primary }
 [申请社区免费体验](../dce/license0.md){ .md-button .md-button--primary }

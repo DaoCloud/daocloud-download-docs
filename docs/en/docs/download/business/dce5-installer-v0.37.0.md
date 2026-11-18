@@ -84,7 +84,7 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.40.0](../../insight/intro/release-notes.md#v0400) |
 | Workbench | A container-based DevOps application platform that supports Jenkins, Tekton, GitOps, and other pipeline jobs. | [v0.39.2](../../amamba/intro/release-notes.md#v0392) |
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
-| Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.51.0](../../skoala/intro/release-notes.md#v0510) |
+| Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.52.1](../../skoala/intro/release-notes.md#v0521) |
 | Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud-native applications. | [v0.37.0](../../mspider/intro/release-notes.md#v0370) |
 | Device Management | A Kubernetes cloud-native infrastructure management component built for intelligent computing centers, enabling unified management of hardware resources such as hosts and switches. | [v0.6.0](../../topohub/intro/release-notes.md#v060) |
 | Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.26.1](../../middleware/elasticsearch/release-notes.md#v0261) |
@@ -95,7 +95,7 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Middleware Redis | An in-memory database caching service. | [v0.29.1](../../middleware/redis/release-notes.md#v0291) |
 | Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.6](../../network/intro/release-notes.md#v0166) |
-| Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.5](../../storage/hwameistor/release-notes.md#v0165) |
+| Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v1.0.1](../../storage/hwameistor/release-notes.md#v101) |
 | AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.23.1](../../baize/intro/release-notes.md#v0231) |
 | LLM Studio | Provides end-to-end lifecycle services from model deployment to operation and maintenance, helping enterprises and developers efficiently integrate and use various large model capabilities | [v0.12.1](../../hydra/intro/release-notes.md#v0121) |
 | Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.22.0](../../kant/intro/release-notes.md#v0220) |

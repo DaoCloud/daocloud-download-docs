@@ -66,5 +66,6 @@ kafka_0.8.1_amd64.tar: OK
 
 ## Installation
 
-If this is your first time installing Kafka, please [apply for a free trial](../../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any questions regarding license keys, please reach out to the DaoCloud delivery team.
+Refer to [offline upgrade of Kafka](../../middleware/kafka/intro/offline-install.md).
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

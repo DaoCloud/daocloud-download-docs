@@ -37,5 +37,7 @@ After the verification is successful, the output is similar to:
 ipavo_v0.12.4_amd64.tar: ok
 ```
 
-If you are installing for the first time, please [apply for a free trial](../../dce/license0.md) or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any license key related questions, please contact DaoCloud delivery team.
+## Installation
+
+Refer to the offline installation steps. If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

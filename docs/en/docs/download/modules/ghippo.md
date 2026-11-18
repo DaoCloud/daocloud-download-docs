@@ -100,8 +100,6 @@ ghippo_v0.13.2_amd64.tar: ok
 
 ## Installation
 
-Refer to [Global Management installation process](../../ghippo/install/offline-install.md) for installation instructions.
-
-If you are installing for the first time, please [apply for a free trial](../../dce/license0.md)
-or contact us for authorization: email info@daocloud.io or call 400 002 6898.
-If you have any license key related questions, please contact DaoCloud delivery team.
+Refer to [global management installation procedure](../../ghippo/install/offline-install.md) for installation.
+If you have any license key-related questions, please contact the DaoCloud delivery team.
+Email info@daocloud.io or call 400 002 6898.

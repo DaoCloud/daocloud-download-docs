@@ -87,8 +87,8 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.30.0](../../middleware/kafka/release-notes.md#v0300) |
 | Middleware MinIO | A lightweight, open-source object storage solution that is very popular. | [v0.25.0](../../middleware/minio/release-notes.md#v0250) |
 | Middleware MySQL | The most widely used open-source relational database. | [v0.30.1](../../middleware/mysql/release-notes.md#v0301) |
-| Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.32.0](../../middleware/rabbitmq/release-notes.md#v0320) |
-| Middleware Redis | An in-memory database caching service. | [v0.31.0](../../middleware/redis/release-notes.md#v0310) |
+| Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.32.0](../../middleware/rabbitmq/release-notes.md#v0310) |
+| Middleware Redis | An in-memory database caching service. | [v0.31.0](../../middleware/redis/release-notes.md#v0300) |
 | Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.6](../../network/intro/release-notes.md#v0166) |
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v1.0.2](../../storage/hwameistor/release-notes.md#v102) |

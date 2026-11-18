@@ -76,8 +76,8 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Modules | Description | Versions |
 | ------- | ----------- | -------- |
 | Global Management | Responsible for user access control, permissions, workspace and hierarchy, audit logs, and custom appearance. | [v0.48.0](../../ghippo/intro/release-notes.md#v0480) |
-| Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [v0.48.1](../../kpanda/intro/release-notes.md#v0481) |
-| Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.42.2](../../insight/intro/release-notes.md#v0422) |
+| Container Management | Manages clusters, nodes, workloads, Helm applications, CRDs, namespaces, and more Kubernetes features. | [v0.48.1](../../kpanda/intro/release-notes.md#v0470) |
+| Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.42.2](../../insight/intro/release-notes.md#v0420) |
 | Workbench | A container-based DevOps application platform that supports Jenkins, Tekton, GitOps, and other pipeline jobs. | [v0.41.1](../../amamba/intro/release-notes.md#v0411) |
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
 | Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.56.0](../../skoala/intro/release-notes.md#v0560) |
@@ -87,7 +87,7 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.30.1](../../middleware/kafka/release-notes.md#v0301) |
 | Middleware MinIO | A lightweight, open-source object storage solution that is very popular. | [v0.25.0](../../middleware/minio/release-notes.md#v0250) |
 | Middleware MySQL | The most widely used open-source relational database. | [v0.30.2](../../middleware/mysql/release-notes.md#v0302) |
-| Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.32.0](../../middleware/rabbitmq/release-notes.md#v0320) |
+| Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.32.0](../../middleware/rabbitmq/release-notes.md#v0310) |
 | Middleware Redis | An in-memory database caching service. | [v0.31.0](../../middleware/redis/release-notes.md#v0310) |
 | Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.25.0](../../kangaroo/intro/release-notes.md#v0250) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.6](../../network/intro/release-notes.md#v0166) |

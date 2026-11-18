@@ -86,13 +86,13 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
 | Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.48.0](../../skoala/intro/release-notes.md#v0480) |
 | Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud-native applications. | [v0.36.0](../../mspider/intro/release-notes.md#v0360) |
-| Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.24.2](../../middleware/elasticsearch/release-notes.md#v0240) |
-| Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.24.2](../../middleware/kafka/release-notes.md#v0240) |
+| Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.24.2](../../middleware/elasticsearch/release-notes.md#v0242) |
+| Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.24.2](../../middleware/kafka/release-notes.md#v0242) |
 | Middleware MinIO | A lightweight, open-source object storage solution that is very popular. | [v0.21.1](../../middleware/minio/release-notes.md#v0211) |
-| Middleware MySQL | The most widely used open-source relational database. | [v0.26.3](../../middleware/mysql/release-notes.md#v0262) |
+| Middleware MySQL | The most widely used open-source relational database. | [v0.26.3](../../middleware/mysql/release-notes.md#v0263) |
 | Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.27.2](../../middleware/rabbitmq/release-notes.md#v0272) |
-| Middleware Redis | An in-memory database caching service. | [v0.27.2](../../middleware/redis/release-notes.md#v0270) |
-| Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0240) |
+| Middleware Redis | An in-memory database caching service. | [v0.27.2](../../middleware/redis/release-notes.md#v0272) |
+| Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.4](../../network/intro/release-notes.md#v0164) |
 | Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.4](../../storage/hwameistor/release-notes.md#v0164) |
 | AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.19.1](../../baize/intro/release-notes.md#v0191) |

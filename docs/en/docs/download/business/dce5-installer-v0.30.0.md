@@ -84,17 +84,17 @@ DCE Enterprise includes the following modules, which can be used on-demand to me
 | Insight | Provides rich dashboards, scene monitoring, data querying, and alert information. | [v0.36.1](../../insight/intro/release-notes.md#v0361) |
 | Workbench | A container-based DevOps application platform that supports Jenkins, Tekton, GitOps, and other pipeline jobs. | [v0.37.0](../../amamba/intro/release-notes.md#v0370) |
 | MultiCloud Management | Centralized management of multicloud, hybrid cloud, and cross-cloud resources for application orchestration, with capabilities such as multicloud disaster recovery and fault recovery. | [v0.24.0](../../kairship/intro/release-notes.md#v0240) |
-| Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.46.1](../../skoala/intro/release-notes.md#v0460) |
+| Microservice Engine | Provides governance capabilities such as service registration, discovery, configuration management, and microservice gateway. | [v0.46.1](../../skoala/intro/release-notes.md#v0461) |
 | Service Mesh | Next-generation service mesh built on Istio open-source technology for cloud-native applications. | [v0.35.1](../../mspider/intro/release-notes.md#v0351) |
-| Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.24.1](../../middleware/elasticsearch/release-notes.md#v0240) |
+| Middleware Elasticsearch | Currently the preferred full-text search engine. | [v0.24.1](../../middleware/elasticsearch/release-notes.md#v0241) |
 | Middleware Kafka | Distributed message queue service based on the open-source software Kafka. | [v0.24.0](../../middleware/kafka/release-notes.md#v0240) |
 | Middleware MinIO | A lightweight, open-source object storage solution that is very popular. | [v0.21.1](../../middleware/minio/release-notes.md#v0211) |
 | Middleware MySQL | The most widely used open-source relational database. | [v0.26.2](../../middleware/mysql/release-notes.md#v0262) |
 | Middleware RabbitMQ | Open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). | [v0.27.2](../../middleware/rabbitmq/release-notes.md#v0272) |
-| Middleware Redis | An in-memory database caching service. | [v0.27.1](../../middleware/redis/release-notes.md#v0270) |
-| Container Regisry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0240) |
+| Middleware Redis | An in-memory database caching service. | [v0.27.1](../../middleware/redis/release-notes.md#v0271) |
+| Container Registry | Used to store images for K8s, DevOps, and container application development. | [v0.24.1](../../kangaroo/intro/release-notes.md#v0241) |
 | Networking | Supports multiple CNI combination solutions for different Linux kernels. | [v0.16.3](../../network/intro/release-notes.md#v0163) |
-| Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.3](../../storage/hwameistor/release-notes.md#v0162) |
+| Storage | Provides unified data storage services, supporting file, object, block, and local storage, easily integrating with storage vendor solutions. | [v0.16.3](../../storage/hwameistor/release-notes.md#v0163) |
 | AI Lab | Integrates heterogeneous compute resources, optimizes GPU performance, and enables unified scheduling and operation. | [v0.16.1](../../baize/intro/release-notes.md#v0161) |
 | Cloud Edge Collaboration | Extends cloud native capabilities to the edge. Uses an edge node model to offload data processing, business applications, and AI models to the edge. | [v0.19.1](../../kant/intro/release-notes.md#v0191) |
 
