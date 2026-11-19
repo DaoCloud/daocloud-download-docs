@@ -10,6 +10,13 @@ hide:
 
 | 文件名称 | 版本 | 架构 | 文件大小 | 下载 | 更新日期 |
 | ------- | --- | ---- | ------ | --- | ------- |
+| jenkins-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | ARM 64 | 6.53GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
+| jenkins-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | AMD 64 | 6.89GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
+| metax-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | AMD 64 | 4.12GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
+| gpu-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | ARM 64 | 31.26GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
+| gpu-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | AMD 64 | 31.11GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
+| standard-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | ARM 64 | 28.30GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
+| standard-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | AMD 64 | 39.37GB | [:arrow_right: 下载页](./v0.46.0.md) | 2026-11-19 |
 | jenkins-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | <font color="green">ARM 64</font> | 6.53GB | [:arrow_right: 下载页](./v0.45.0.md) | 2026-10-29 |
 | jenkins-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | AMD 64 | 6.89GB | [:arrow_right: 下载页](./v0.45.0.md) | 2026-10-29 |
 | metax-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | AMD 64 | 4.12GB | [:arrow_right: 下载页](./v0.45.0.md) | 2026-10-29 |
