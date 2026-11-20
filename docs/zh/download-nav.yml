@@ -45,3 +45,14 @@ nav:
                   - 全局管理: download/modules/ghippo.md
                   - 运营管理: download/modules/gmagpie.md
                   - 设备管理: download/modules/topohub.md
+  - d.run Token 工厂效能平台:
+      - 云原生 AI:
+          - 大模型服务平台:
+              - 运维管理:
+                  - 模型广场管理: https://docs.daocloud.io/tf/hydra/oam/
+                  - MaaS模型管理: https://docs.daocloud.io/tf/hydra/oam/maas/
+                  - 智能路由: https://docs.daocloud.io/tf/hydra/oam/auto-route/
+                  - 模型部署管理: https://docs.daocloud.io/tf/hydra/oam/mdm/
+                  - 安全策略管理: https://docs.daocloud.io/tf/hydra/oam/security-policy/
+                  - 安全审计日志: https://docs.daocloud.io/tf/hydra/oam/security-audit-logs/
+                  - 成本分析中心: tf/hydra/oam/cost-analysis-center.md

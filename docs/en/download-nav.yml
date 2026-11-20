@@ -45,3 +45,14 @@ nav:
                   - Global Management: download/modules/ghippo.md
                   - Operation Management: download/modules/gmagpie.md
                   - Device Management: download/modules/topohub.md
+  - d.run Token Factory:
+      - Cloud Native AI:
+          - LLM Studio:
+              - Admin:
+                  - Model Plaza Management: https://docs.daocloud.io/en/tf/hydra/oam/
+                  - MaaS Model Management: https://docs.daocloud.io/en/tf/hydra/oam/maas/
+                  - Smart Routing: https://docs.daocloud.io/en/tf/hydra/oam/auto-route/
+                  - Model Serving Management: https://docs.daocloud.io/en/tf/hydra/oam/mdm/
+                  - Security Policy Management: https://docs.daocloud.io/en/tf/hydra/oam/security-policy/
+                  - Security Audit Logs: https://docs.daocloud.io/en/tf/hydra/oam/security-audit-logs/
+                  - Cost Analysis Center: tf/hydra/oam/cost-analysis-center.md
