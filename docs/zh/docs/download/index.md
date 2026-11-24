@@ -65,13 +65,13 @@
 
 | 最新离线包 | 版本 | 下载 | 更新日期 |
 |--------| ---- | --- | --------- |
-| jenkins-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
-| jenkins-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
-| metax-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
-| gpu-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
-| gpu-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
-| standard-addon-offline-package-v0.45.0-arm64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
-| standard-addon-offline-package-v0.45.0-amd64.tar.gz | v0.45.0 | [:arrow_right: 下载页](./addon/v0.45.0.md) | 2026-10-29 |
+| jenkins-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
+| jenkins-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
+| metax-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
+| gpu-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
+| gpu-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
+| standard-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
+| standard-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | [:arrow_right: 下载页](./addon/v0.46.0.md) | 2026-11-19 |
 
 [查看历史版本](./addon/history.md){ .md-button }
 
@@ -94,7 +94,7 @@
 | 微服务 | 可观测性 | 1.83 GB | [:arrow_right: 下载页](./modules/insight.md) | 2026-10-09 |
 | | 仪表盘 | 51 MB | [:arrow_right: 下载页](./modules/ipavo.md) | 2024-10-28 |
 | | 微服务引擎 | 3.29 GB | [:arrow_right: 下载页](./modules/skoala.md) | 2026-10-27 |
-| | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-11-17 |
+| | 服务网格 | 1.25 GB | [:arrow_right: 下载页](./modules/mspider.md) | 2026-11-24 |
 | 中间件 | Elasticsearch | 1.95 GB | [:arrow_right: 下载页](./modules/middleware/elasticsearch.md) | 2025-12-16 |
 | | Kafka | 1.29 GB | [:arrow_right: 下载页](./modules/middleware/kafka.md) | 2025-12-16 |
 | | MinIO | 180.98 MB | [:arrow_right: 下载页](./modules/middleware/minio.md) | 2025-12-16 |
