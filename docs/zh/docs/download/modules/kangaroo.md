@@ -11,6 +11,7 @@ hide:
 
 | 版本 | 架构 | 文件大小 | 安装包 |  校验文件 | 更新日期 |
 |----- | --- | ------ | ------ | ------- | ------- |
+| [0.24.2](../../kangaroo/intro/release-notes.md) | AMD 64 | 345.03 MB | [:arrow_down: kangaroo_0.24.2_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.24.2_amd64.tar) | [:arrow_down: kangaroo_0.24.2_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.24.2_amd64_checksum.sha512sum) | 2026-11-24 |
 | [v0.22.0](../../kangaroo/intro/release-notes.md) | AMD 64 | 349.21 MB | [:arrow_down: kangaroo_0.22.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.22.0_amd64.tar) | [:arrow_down: kangaroo_0.22.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.22.0_amd64_checksum.sha512sum) | 2024-10-11 |
 | [v0.21.0](../../kangaroo/intro/release-notes.md) | AMD 64 | 349.19 MB | [:arrow_down: kangaroo_0.21.0_amd64.tar](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.21.0_amd64.tar) | [:arrow_down: kangaroo_0.21.0_amd64_checksum.sha512sum](https://qiniu-download-public.daocloud.io/DaoCloud_Enterprise/kangaroo_0.21.0_amd64_checksum.sha512sum) | 2024-08-29 |
 
