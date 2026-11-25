@@ -87,7 +87,7 @@
 | | 应用备份 | 85.06 MB | [:arrow_right: 下载页](./modules/kcoral.md) | 2024-12-03 |
 | | 安全管理 | 167.29 MB | [:arrow_right: 下载页](./modules/dowl.md) | 2023-11-26 |
 | | 多云编排 | 663.57 MB | [:arrow_right: 下载页](./modules/kairship.md) | 2024-10-09 |
-| | 镜像仓库 | 304.16 MB | [:arrow_right: 下载页](./modules/kangaroo.md) | 2026-11-24 |
+| | 镜像仓库 | 304.16 MB | [:arrow_right: 下载页](./modules/kangaroo.md) | 2026-11-25 |
 | | 云原生网络 | 63.76 MB | [:arrow_right: 下载页](./modules/spidernet.md) | 2025-07-31 |
 | | 云原生存储 | 1.62 GB | [:arrow_right: 下载页](./modules/hwameistor.md)| 2023-11-06 |
 | | 虚拟机 | 1.43 GB | [:arrow_right: 下载页](./modules/virtnest.md) | 2025-07-01 |
