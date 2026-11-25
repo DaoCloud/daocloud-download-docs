@@ -16,57 +16,49 @@ Currently, only offline packages are provided in the download center. For online
 
 !!! tip
 
-    To download legacy dependencies, change the version number in the URL file name, for example `prerequisite_v0.38.0_arm64.tar.gz`.
+    To download legacy dependencies, change the version number in the URL file name, for example `v0.38.0` in `prerequisite_v0.38.0_arm64.tar.gz`.
 
 ## Download d.run Token Factory
 
-This product is suitable for producing efficient and profitable token factory.
+This product is suitable for producing efficient and profitable token factory. [:rewind: Historical Versions](./tf/index.md)
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
 | offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
 | offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./tf/tf-installer-v0.46.0.md) | 2026-11-12 |
 
-[Historical Versions](./tf/index.md){ .md-button }
-
 ## Download d.run AI OS
 
-This product is suitable for delivering stable and efficient AI services to all departments of an enterprise.
+This product is suitable for delivering stable and efficient AI services to all departments of an enterprise. [:rewind: Historical Versions](./drun/index.md)
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
 | offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
 | offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./drun/drun-installer-v0.46.0.md) | 2026-11-12 |
 
-[Historical Versions](./drun/index.md){ .md-button }
-
 ## Download DaoCloud Enterprise
 
 ### Download DCE Community
 
-This version is dedicated to the community and is available for free trial.
+This version is dedicated to the community and is available for free trial. [:rewind: Historical Versions](./free/dce5-installer-history.md)
 
 | Latest Package | Version | Download | Date |
 | -------- | ---- | --- | ------- |
 | offline-community-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
 | offline-community-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./free/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
-[Historical Versions](./free/dce5-installer-history.md){ .md-button }
-
 ### Download DCE Enterprise
 
-This version is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules.
+This version is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules. [:rewind: Historical Versions](./business/dce5-installer-history.md)
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
 | offline-v0.46.0-arm64.tar | v0.46.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
 | offline-v0.46.0-amd64.tar | v0.46.0 | [:arrow_right: Go to Download](./business/dce5-installer-v0.46.0.md) | 2026-11-12 |
 
-[Historical Versions](./business/dce5-installer-history.md){ .md-button }
-
 ## Download Addons
 
-DaoCloud provides comprehensive Addons for different use cases, which can be downloaded as needed.
+DaoCloud provides Addons for different use cases, which can be downloaded as needed. [:rewind: Historical Versions](./addon/history.md)
 
 | Latest Package | Version | Download | Date |
 |--------| ---- | --- | --------- |
@@ -77,8 +69,6 @@ DaoCloud provides comprehensive Addons for different use cases, which can be dow
 | gpu-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | [:arrow_right: Go to Download](./addon/v0.46.0.md) | 2026-11-19 |
 | standard-addon-offline-package-v0.46.0-arm64.tar.gz | v0.46.0 | [:arrow_right: Go to Download](./addon/v0.46.0.md) | 2026-11-19 |
 | standard-addon-offline-package-v0.46.0-amd64.tar.gz | v0.46.0 | [:arrow_right: Go to Download](./addon/v0.46.0.md) | 2026-11-19 |
-
-[Historical Versions](./addon/history.md){ .md-button }
 
 ## Download Modules
 
@@ -92,7 +82,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Application Backup | 85.06 MB | [:arrow_right: Go to Download](./modules/kcoral.md) | 2024-12-03 |
 | | Security Management | 167.29 MB | [:arrow_right: Go to Download](./modules/dowl.md) | 2023-11-26 |
 | | MultiCloud Management | 663.57 MB | [:arrow_right: Go to Download](./modules/kairship.md) | 2024-10-09 |
-| | Container Registry | 304.16 MB | [:arrow_right: Go to Download](./modules/kangaroo.md) | 2026-11-24 |
+| | Container Registry | 304.16 MB | [:arrow_right: Go to Download](./modules/kangaroo.md) | 2026-11-25 |
 | | Network | 63.76 MB | [:arrow_right: Go to Download](./modules/spidernet.md) | 2025-07-31 |
 | | Storage | 1.62 GB | [:arrow_right: Go to Download](./modules/hwameistor.md)| 2023-11-06 |
 | | Virtual Machine | 1.43 GB | [:arrow_right: Go to Download](./modules/virtnest.md) | 2025-07-01 |
