@@ -20,7 +20,7 @@ Currently, only offline packages are provided in the download center. For online
 
 ## Download d.run Token Factory
 
-This product is suitable for producing efficient and profitable token factory. [:rewind: Historical Versions](./tf/index.md)
+This product is suitable for producing efficient and profitable token factory. See [legacy versions](./tf/index.md).
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
@@ -29,7 +29,7 @@ This product is suitable for producing efficient and profitable token factory. [
 
 ## Download d.run AI OS
 
-This product is suitable for delivering stable and efficient AI services to all departments of an enterprise. [:rewind: Historical Versions](./drun/index.md)
+This product is suitable for delivering stable and efficient AI services to all departments of an enterprise. See [legacy versions](./drun/index.md).
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
@@ -40,7 +40,7 @@ This product is suitable for delivering stable and efficient AI services to all 
 
 ### Download DCE Community
 
-This version is dedicated to the community and is available for free trial. [:rewind: Historical Versions](./free/dce5-installer-history.md)
+This version is dedicated to the community and is available for free trial. See [legacy versions](./free/dce5-installer-history.md).
 
 | Latest Package | Version | Download | Date |
 | -------- | ---- | --- | ------- |
@@ -49,7 +49,7 @@ This version is dedicated to the community and is available for free trial. [:re
 
 ### Download DCE Enterprise
 
-This version is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules. [:rewind: Historical Versions](./business/dce5-installer-history.md)
+This version is suitable for private cloud, hybrid cloud, multicloud, microservices and other scenarios, providing a variety of customizable cloud native modules. See [legacy versions](./business/dce5-installer-history.md).
 
 | Latest Package | Version | Download | Date |
 | ----- | ----- | ---- | --------- |
@@ -58,7 +58,7 @@ This version is suitable for private cloud, hybrid cloud, multicloud, microservi
 
 ## Download Addons
 
-DaoCloud provides Addons for different use cases, which can be downloaded as needed. [:rewind: Historical Versions](./addon/history.md)
+DaoCloud provides Addons for different use cases, which can be downloaded as needed. See [legacy versions](./addon/history.md).
 
 | Latest Package | Version | Download | Date |
 |--------| ---- | --- | --------- |
