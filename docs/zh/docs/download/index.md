@@ -95,7 +95,7 @@
 | | Redis | 607.47 MB | [:arrow_right: 下载页](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: 下载页](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | 云原生 AI | 大模型服务平台 | 1.42 GB | [:arrow_right: 下载页](./modules/hydra.md) | 2026-10-20 |
-| | AI Lab | 1.64 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-10-29 |
+| | AI Lab | 1.65 GB | [:arrow_right: 下载页](./modules/baize.md) | 2026-11-27 |
 | | ClawOS | 2.44 GB | [:arrow_right: 下载页](./modules/agentclaw.md) | 2026-10-28 |
 | 边缘计算 | 云边协同 | 107 MB | [:arrow_right: 下载页](./modules/kant.md) | 2025-06-23 |
 | 管理 | 全局管理 | 498.06 MB | [:arrow_right: 下载页](./modules/ghippo.md) | 2026-11-20 |

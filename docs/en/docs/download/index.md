@@ -100,7 +100,7 @@ The numerous modules can be downloaded separately to upgrade each module on dema
 | | Redis | 607.47 MB | [:arrow_right: Go to Download](./modules/middleware/redis.md) | 2025-12-16 |
 | | RocketMQ | 961.70 MB | [:arrow_right: Go to Download](./modules/middleware/rocketmq.md) | 2025-12-16 |
 | Cloud Native AI | LLM Studio | 1.42 GB | [:arrow_right: Go to Download](./modules/hydra.md) | 2026-10-20 |
-| | AI Lab | 1.64 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-10-29 |
+| | AI Lab | 1.65 GB | [:arrow_right: Go to Download](./modules/baize.md) | 2026-11-27 |
 | | ClawOS | 2.44 GB | [:arrow_right: Go to Download](./modules/agentclaw.md) | 2026-10-28 |
 | Edge Computing | Cloud Edge Collaboration | 107 MB | [:arrow_right: Go to Download](./modules/kant.md) | 2025-06-23 |
 | Management | Global Management | 498.06 MB | [:arrow_right: Go to Download](./modules/ghippo.md) | 2026-11-20 |
